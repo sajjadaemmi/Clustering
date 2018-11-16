@@ -1,4 +1,7 @@
 # Clustering
-Multi clustering and find indicators with Matlab
+
+FCM
+
+Multi clustering and find center of clusters with Matlab
 
 ![Screenshot](screenshot.png)
